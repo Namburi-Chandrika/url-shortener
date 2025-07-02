@@ -1,2 +1,2 @@
 # url-shortener
-We shorten our url
+This website shortens long url
